@@ -8,7 +8,7 @@ The goal is to take a raw, messy dataset and transform it into a fully interacti
 ---
 
 ## 🖼️ Dashboard Preview
-![Bike Sales Dashboard](screenshots/dashboard_preview.png)
+![Bike Sales Dashboard](dashboard_preview.png)
 
 ---
 
