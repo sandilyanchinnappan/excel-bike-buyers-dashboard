@@ -7,6 +7,11 @@ The goal is to take a raw, messy dataset and transform it into a fully interacti
 
 ---
 
+## 🖼️ Dashboard Preview
+![Bike Sales Dashboard](screenshots/dashboard_preview.png)
+
+---
+
 ## 🏗️ Workbook Structure
 The project is organized into four distinct tabs:
 1. **Raw Data** – Untouched original dataset.
